@@ -1,5 +1,5 @@
 abstract class EndPoints {
-  static const String url= "http://103.67.244.45";
+  static const String url= "http://";
   static const String baseUrl = "$url/api";
   static const String imageUrl = "$url/";
 
